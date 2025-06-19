@@ -1,0 +1,7 @@
+package com.fstore.model;
+
+public enum EmailType {
+    CREATE_ORDER_USER_NOTIFICATION,
+    CREATE_ORDER_ADMIN_NOTIFICATION,
+    UPDATE_ORDER_STATUS_USER_NOTIFICATION
+}
